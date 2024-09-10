@@ -5,8 +5,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 import warnings
 warnings.filterwarnings('ignore')
-import config
-import pandas as pd
+import confi
 
 class Medical_Insurance():
     def __init__(self):
